@@ -1,0 +1,8 @@
+print
+add 111 2
+print
+add 222 1
+print
+add 333 3
+print
+

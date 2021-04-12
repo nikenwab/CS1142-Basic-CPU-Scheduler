@@ -1,0 +1,20 @@
+add 111 18
+run 5
+add 222 35
+run 10
+add 333 105
+run 7
+add 444 1
+add 555 21
+add 666 31
+run 3
+add 777 84
+run 1
+add 888 10
+run 17
+run 1
+add 999 1
+run 21
+
+
+

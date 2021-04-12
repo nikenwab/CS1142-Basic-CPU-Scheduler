@@ -1,0 +1,1000 @@
+print
+print
+print
+run 160
+run 3
+print
+add 20942 54
+add 30189 40
+add 81914 28
+run 6
+add 49309 86
+print
+run 177
+run 48
+run 197
+add 80735 14
+add 54610 96
+print
+add 35126 33
+run 117
+run 200
+add 72473 82
+run 83
+print
+run 125
+add 93335 71
+print
+run 123
+add 46168 52
+run 35
+run 99
+add 55778 36
+add 87568 6
+run 87
+print
+print
+run 181
+run 141
+run 18
+add 95538 15
+add 22234 21
+add 21305 47
+add 55848 92
+print
+add 58636 48
+add 40781 53
+run 156
+run 99
+print
+add 74767 31
+add 26495 79
+print
+run 66
+print
+run 166
+print
+run 117
+print
+print
+print
+print
+run 62
+run 171
+print
+add 53017 100
+print
+add 73966 40
+run 137
+run 86
+print
+run 149
+run 141
+run 171
+run 96
+run 22
+run 172
+add 28026 7
+print
+print
+print
+run 102
+run 163
+print
+run 27
+run 159
+run 139
+run 118
+add 24177 14
+run 162
+print
+add 71296 56
+run 154
+add 89492 51
+run 86
+run 80
+run 177
+add 13001 64
+add 93895 23
+run 113
+print
+add 65451 9
+print
+print
+print
+run 31
+add 65300 58
+add 16702 26
+add 75549 52
+run 132
+add 56492 76
+add 67865 68
+print
+add 51622 1
+add 36299 50
+run 7
+run 138
+print
+run 82
+print
+run 151
+add 23522 97
+run 97
+print
+run 158
+print
+run 133
+add 84322 22
+run 19
+print
+print
+add 36667 55
+add 45096 94
+add 29784 7
+add 9247 21
+add 14363 50
+run 170
+run 156
+add 80003 75
+run 92
+run 48
+print
+add 74800 44
+add 63810 4
+run 27
+run 191
+print
+print
+run 176
+print
+run 51
+add 30534 28
+add 26195 44
+add 48815 43
+add 12017 61
+print
+add 76906 56
+run 188
+print
+run 195
+add 45928 34
+print
+add 7921 63
+run 35
+add 84187 21
+run 49
+run 80
+run 78
+print
+print
+print
+run 45
+run 161
+print
+print
+run 111
+print
+run 122
+run 171
+print
+run 101
+add 7970 36
+run 178
+print
+print
+run 84
+print
+run 65
+run 54
+add 4205 9
+print
+run 126
+print
+run 58
+print
+add 74441 43
+add 99869 17
+print
+add 84071 58
+add 49193 67
+add 56426 4
+run 100
+add 49233 44
+add 47487 32
+run 162
+run 120
+run 78
+add 61531 23
+add 86715 41
+add 78327 29
+run 95
+run 177
+run 157
+run 143
+add 82043 72
+print
+print
+add 62706 14
+print
+print
+print
+print
+run 134
+print
+add 8732 20
+add 18637 72
+print
+add 88686 25
+print
+print
+print
+add 97228 78
+add 4829 70
+run 6
+run 74
+run 199
+run 79
+run 172
+run 55
+add 49612 21
+run 135
+run 162
+print
+run 167
+print
+print
+add 36251 36
+run 81
+run 132
+run 177
+add 94388 41
+add 96651 40
+print
+run 109
+add 44221 10
+add 51393 71
+add 11976 63
+print
+add 35541 15
+run 93
+print
+print
+run 98
+run 95
+add 78301 4
+add 87888 13
+run 171
+run 150
+print
+add 23020 83
+run 73
+run 82
+print
+add 90676 97
+print
+print
+print
+print
+run 35
+add 97440 14
+add 9046 66
+add 94868 10
+run 167
+print
+add 65424 84
+run 104
+run 167
+add 96255 25
+add 50222 90
+run 177
+print
+print
+run 151
+print
+run 31
+run 120
+print
+print
+print
+run 26
+print
+print
+print
+run 29
+run 28
+print
+print
+run 158
+print
+run 172
+run 197
+add 309 100
+run 42
+run 4
+run 44
+run 167
+print
+add 85552 25
+run 18
+run 29
+run 174
+add 13557 85
+add 36373 56
+print
+add 10327 49
+print
+print
+add 9096 23
+run 157
+run 95
+run 15
+run 41
+add 88185 76
+print
+run 87
+run 78
+print
+print
+print
+print
+run 164
+print
+print
+run 179
+add 21749 80
+add 96309 75
+run 105
+print
+print
+print
+add 2907 23
+add 89497 3
+print
+print
+print
+run 10
+print
+print
+print
+run 187
+add 91495 29
+add 26774 96
+run 24
+run 55
+add 90267 17
+run 119
+print
+run 147
+print
+run 3
+print
+run 69
+print
+run 197
+add 26459 68
+run 130
+print
+add 48613 36
+run 138
+run 115
+print
+add 80289 27
+run 163
+print
+print
+print
+print
+print
+print
+run 29
+run 8
+print
+print
+print
+print
+print
+run 13
+run 66
+run 102
+print
+print
+run 67
+run 99
+add 66263 23
+print
+add 40405 93
+run 14
+run 8
+print
+add 20510 24
+run 115
+add 72593 79
+print
+print
+add 91864 33
+run 112
+print
+print
+add 83627 14
+print
+run 48
+add 88605 66
+run 105
+run 184
+print
+print
+run 153
+print
+run 54
+run 124
+add 76568 34
+print
+run 144
+run 189
+add 88915 17
+run 197
+print
+add 17233 12
+add 17130 25
+add 73252 89
+run 176
+run 110
+add 49405 70
+run 145
+add 1702 78
+run 79
+print
+run 113
+run 148
+add 83607 26
+print
+print
+add 85686 70
+run 164
+run 78
+add 92136 2
+print
+add 77454 39
+run 173
+run 192
+add 83715 66
+add 77457 76
+add 8694 50
+add 11751 57
+print
+run 38
+run 113
+print
+add 60939 72
+print
+print
+add 16675 16
+add 94130 15
+print
+print
+run 32
+run 139
+add 65435 49
+print
+run 43
+print
+print
+run 152
+add 23118 79
+print
+add 23331 2
+add 56691 24
+print
+print
+add 65581 100
+run 5
+add 97483 40
+run 80
+print
+print
+add 51688 56
+print
+run 160
+print
+run 114
+print
+add 14454 50
+print
+add 81704 90
+print
+run 72
+add 38178 77
+add 11000 49
+run 55
+add 50918 92
+run 74
+add 82183 46
+add 15835 5
+run 145
+print
+run 7
+add 13993 87
+run 109
+add 21682 72
+add 59005 2
+print
+run 68
+add 13984 61
+print
+add 3531 43
+print
+add 66117 95
+print
+print
+add 2063 100
+add 19819 60
+print
+run 96
+run 13
+add 56774 33
+run 174
+print
+add 40037 40
+run 122
+run 74
+print
+run 199
+add 12813 80
+print
+add 43690 2
+run 38
+run 73
+run 145
+add 42908 11
+print
+run 93
+add 73511 9
+run 145
+run 70
+print
+add 25630 48
+add 15481 25
+print
+print
+add 61391 97
+print
+add 17025 13
+print
+run 148
+run 49
+add 18208 83
+add 14079 92
+run 145
+add 93931 46
+add 77645 2
+add 69102 41
+print
+add 55348 10
+print
+print
+run 90
+add 87283 98
+print
+run 2
+print
+add 34177 40
+print
+print
+add 10547 9
+print
+print
+run 34
+add 19240 89
+print
+print
+add 30718 91
+run 68
+run 62
+add 7265 71
+add 93197 31
+add 52966 84
+print
+run 145
+print
+run 85
+print
+add 21921 1
+print
+print
+add 7787 77
+add 58057 56
+add 24565 17
+print
+run 105
+add 71140 88
+add 75312 14
+run 55
+run 106
+run 188
+print
+add 2382 47
+run 85
+run 146
+print
+add 55922 89
+run 5
+add 99480 55
+run 63
+add 41484 38
+run 109
+add 55007 48
+print
+add 64395 31
+add 12896 78
+print
+run 60
+run 182
+add 41667 59
+add 24368 82
+print
+print
+add 81330 28
+run 141
+add 23509 9
+add 83426 42
+print
+add 12286 25
+add 23428 5
+add 71825 79
+print
+run 75
+print
+print
+print
+print
+add 19051 92
+run 182
+add 37246 69
+print
+add 61923 62
+add 33729 65
+print
+run 177
+print
+run 108
+print
+run 138
+run 171
+add 73948 49
+print
+print
+print
+print
+run 173
+print
+run 85
+print
+add 94351 7
+run 63
+add 59205 61
+print
+add 17346 90
+run 76
+print
+run 187
+add 67488 5
+run 161
+run 104
+print
+run 43
+add 57194 54
+run 17
+add 90700 30
+run 77
+print
+print
+add 87252 51
+add 50445 88
+add 69896 83
+add 11865 74
+run 55
+add 1321 68
+run 20
+add 48820 65
+add 892 31
+print
+run 46
+add 33430 77
+add 86029 8
+add 46695 7
+print
+run 31
+add 19487 81
+add 4711 74
+print
+add 10426 36
+run 87
+run 131
+print
+run 44
+run 28
+add 2372 25
+print
+print
+add 73384 49
+add 11198 68
+add 54690 57
+add 13325 76
+print
+run 9
+print
+print
+print
+run 21
+add 85147 2
+print
+add 51847 38
+print
+run 144
+print
+run 53
+print
+run 43
+run 141
+run 154
+run 188
+run 25
+add 58470 11
+run 17
+print
+add 15628 67
+print
+run 155
+add 25043 17
+add 49034 17
+run 188
+print
+add 57305 59
+add 58558 3
+run 48
+add 65728 72
+print
+add 24723 84
+print
+run 103
+add 63575 72
+print
+print
+run 73
+print
+add 13751 72
+print
+add 51764 65
+add 85932 64
+add 16653 97
+run 188
+add 31290 31
+print
+run 17
+run 192
+run 75
+run 164
+run 170
+run 187
+add 84227 87
+add 34723 75
+run 118
+print
+print
+print
+run 108
+add 96023 52
+add 72557 65
+add 18525 43
+run 14
+run 70
+run 180
+print
+add 50599 77
+print
+print
+add 46878 39
+run 196
+print
+add 88183 93
+add 10069 29
+run 188
+add 68638 58
+add 82604 19
+run 18
+run 170
+print
+run 173
+add 7048 79
+run 23
+print
+run 158
+add 97855 77
+print
+run 134
+run 7
+print
+add 71937 5
+run 57
+run 160
+run 183
+add 46695 68
+print
+run 105
+print
+add 48776 86
+print
+print
+add 35471 99
+run 122
+print
+run 12
+print
+run 186
+run 120
+add 58544 30
+add 54779 15
+run 100
+run 91
+add 69737 45
+print
+print
+run 5
+add 23421 70
+run 135
+add 57238 92
+add 73935 18
+run 27
+run 98
+run 70
+print
+add 70205 1
+add 47437 100
+add 92435 72
+add 2439 82
+print
+print
+print
+run 189
+print
+add 78801 19
+run 61
+run 173
+print
+run 114
+add 82000 36
+print
+print
+add 9837 75
+add 99397 72
+print
+print
+run 30
+run 69
+run 10
+run 129
+add 21861 68
+run 115
+print
+run 147
+run 86
+run 77
+add 81339 72
+print
+print
+print
+add 45492 42
+run 70
+add 73766 96
+add 36437 33
+add 96082 39
+print
+add 46060 25
+run 12
+print
+add 71579 57
+add 22069 30
+print
+run 191
+print
+add 3414 46
+add 68942 97
+run 121
+run 159
+add 81784 67
+add 95467 71
+print
+run 138
+add 81423 40
+add 74193 12
+print
+add 347 38
+print
+run 44
+print
+print
+add 13238 78
+run 139
+run 151
+add 50743 56
+add 6558 15
+add 39361 72
+run 77
+print
+add 78033 79
+print
+run 138
+print
+print
+run 2
+print
+run 10
+run 142
+run 135
+run 86
+add 92156 77
+add 44094 46
+run 188
+run 27
+add 21316 10
+run 127
+add 60135 21
+print
+run 159
+run 169
+print
+run 16
+run 57
+add 32509 40
+add 22202 95
+run 34
+add 82599 13
+run 160
+run 151
+print
+add 6102 21
+print
+add 98370 40
+add 12193 99
+run 126
+run 87
+print
+run 16
+run 178
+add 45287 95
+add 11848 7
+print
+run 168
+add 3668 36
+print
+run 143
+run 113
+print
+print
+add 97638 14
+add 66254 72
+print
+add 81522 43
+add 88778 81
+print
+run 133
+add 57612 97
+print
+add 71382 92
+add 80947 77
+print
+print
+add 31640 43
+run 183
+add 49104 7
+add 28413 29
+run 36
+print
+run 133
+run 191
+add 74537 83
+run 115
+add 83378 31
+run 55
+add 19292 42
+run 185

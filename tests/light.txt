@@ -1,0 +1,11 @@
+run 10
+add 111 2
+print
+run 10
+add 222 2
+print
+run 10
+add 333 2
+print
+run 10
+print

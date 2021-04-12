@@ -1,0 +1,17 @@
+run 5
+add 111 10
+run 5
+print
+add 222 10
+run 10
+print
+add 333 10
+run 10
+print
+add 444 10
+run 5
+run 5
+print
+
+
+
